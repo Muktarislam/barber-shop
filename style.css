@@ -400,6 +400,14 @@ hr{
     font-size: 12px;
     margin-top: 20px;
 }
+.heart{
+    text-align: center;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.heart .fa{
+    color: #009688;
+}
 @media screen and (max-width: 700px){
     .footer-left .fa,.footer-right .fa{
         flex-basis: 100%;
